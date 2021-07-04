@@ -5,6 +5,14 @@
 - 📫 How to reach me? You could contact via email mufaddalhamidofficial@gmail.com
 
 <!---
-mufaddalhamidofficial/mufaddalhamidofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Basic Flutter Dependencies:
+-   provider
+-   http
+-   shared_preferences
+-   fluttertoast
+-   url_launcher
+-   firebase_core -> https://firebase.flutter.dev
+-   onesignal_flutter
+-   package_info_plus
+
 --->
