@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mufaddalhamidofficial
 - 👀 I’m interested in learning new languages and using them.
-- 🌱 Currently studying + on a JOB as a Full Stack Mobile App and Web Developer. I am in 2st Year of BTech in AI/DS at CDGI.
-- 🤹 Skills:
+- 🌱 Currently studying & Freelancing as a Full Stack Mobile App and Web Developer. I am in 3rd Year of BTech in AI/DS at CDGI.
+- 🤹 Skills: 
   - React Native
   - Flutter
   - NodeJS
@@ -9,6 +9,9 @@
   - MySQL
   - MongoDB
   - ReactJS
+  - Machine Learning
+  - Artificial Intelligence
+  - Data Science
   - Languages -
     - Advanced - JavaScript, Dart, php, SQL
     - Beginner level - C, C++, Java, Python
