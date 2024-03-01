@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mufaddalhamidofficial
-- 👀 I’m interested in learning new languages and using them.
 - 🌱 Currently studying & Freelancing as a Full Stack Mobile App and Web Developer. I am in 3rd Year of BTech in AI/DS at CDGI.
+- 🔗 [Visit My Profile](https://bit.ly/mufaddalh)
 - 🤹 Skills: 
   - React Native
   - Flutter
